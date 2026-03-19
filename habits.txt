@@ -1,0 +1,3 @@
+GROUP|ROOT
+HABIT|Drink Water|0|false
+HABIT|Study 30 mins|0|false
